@@ -9,3 +9,6 @@ With an improved prediction model in place, Red Hat will be able to more efficie
 Dataset can be downloaded here:
 https://www.kaggle.com/c/predicting-red-hat-business-value/data
 
+Redhat_report.html: final report
+
+Redhat_edit.ipynb: data mining process in jupyter notebook format
